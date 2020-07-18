@@ -14,6 +14,11 @@
   </a>
 </p>
 
+# ➤ Software Engineer
+🏠 **Current Location:**  *New York, New York* 🗽
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#introduction)
+
 Nice to meet you! I'm a software engineer currently based in the NYC area. Before venturing into the world of development, I worked as a product manager at Wayfair. 
 
 When I’m not working on my next project, you can find me analyzing the latest NBA story lines or planning out my next travel adventure.
