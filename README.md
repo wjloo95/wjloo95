@@ -14,10 +14,10 @@
   </a>
 </p>
 
-# ➤ Software Engineer
-🏠 **Current Location:**  *New York, New York* 🗽
+# ➤ Full Stack Engineer
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#introduction)
+### 📍 **Living in:**  *New York, New York* 🗽
+### 🏢 **Working at:**  🎉🎉🎉 *Still figuring that out!!* 🎉🎉🎉
 
 Nice to meet you! I'm a software engineer currently based in the NYC area. Before venturing into the world of development, I worked as a product manager at Wayfair. 
 
