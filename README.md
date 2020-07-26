@@ -14,10 +14,10 @@
   </a>
 </p>
 
-# ➤ Software Engineer at Atlassian <img src="https://raw.githubusercontent.com/wjloo95/wjloo95/master/Atlassian-Logo.png" alt="Atlassian Logo" width="25" style="color:blue"/>
+# ➤ Software Engineer at Atlassian <img src="https://raw.githubusercontent.com/wjloo95/wjloo95/master/Atlassian-icon-blue-onecolor%402x.png" alt="Atlassian Logo" width="30" style="color:blue"/>
 
 ### 📍 **Living in:**  *New York, New York* 🗽
-### 🏢 **Working on:**  *Trello Ecosystem* <img src="https://raw.githubusercontent.com/wjloo95/wjloo95/master/Trello-512.png" alt="Trello Logo" width="25" style="color:blue"/>
+### 🏢 **Working on:**  *Trello Ecosystem* <img src="https://raw.githubusercontent.com/wjloo95/wjloo95/master/trello-logo.png" alt="Trello Logo" width="25" style="color:blue"/>
 
 Nice to meet you! I'm a Software Engineer at Atlassian currently based in the NYC area. Before venturing into the world of development, I worked as a product manager at Wayfair. 
 
