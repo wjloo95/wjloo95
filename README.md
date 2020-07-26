@@ -14,12 +14,12 @@
   </a>
 </p>
 
-# ➤ Full Stack Engineer
+# ➤ Software Engineer at Atlassian <img src="https://raw.githubusercontent.com/wjloo95/wjloo95/master/Atlassian-Logo.png" alt="Atlassian Logo" width="25" style="color:blue"/>
 
 ### 📍 **Living in:**  *New York, New York* 🗽
-### 🏢 **Working at:**  🎉🎉🎉 *Still figuring that out!!* 🎉🎉🎉
+### 🏢 **Working on:**  *Trello Ecosystem* <img src="https://raw.githubusercontent.com/wjloo95/wjloo95/master/Trello-512.png" alt="Trello Logo" width="25" style="color:blue"/>
 
-Nice to meet you! I'm a software engineer currently based in the NYC area. Before venturing into the world of development, I worked as a product manager at Wayfair. 
+Nice to meet you! I'm a Software Engineer at Atlassian currently based in the NYC area. Before venturing into the world of development, I worked as a product manager at Wayfair. 
 
 When I’m not working on my next project, you can find me analyzing the latest NBA story lines or planning out my next travel adventure.
 
