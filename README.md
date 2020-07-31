@@ -4,15 +4,12 @@
 
 <p align="center">
   <a href="mailto:loo.williamj@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%230077B5.svg?&style=flat&logo=gmail&logoColor=white&color=b23121" />
+    <img align="center" alt="Will | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/william-loo/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white&color=0E76A8" />
+  <a href="https://linkedin.com/in/william-loo">
+    <img align="center" alt="Will | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://www.facebook.com/looberto">
-    <img src="https://img.shields.io/badge/Facebook-%230077B5.svg?&style=flat&logo=facebook&logoColor=white&color=3b5998" />
-  </a>
-</p>
+</p>  
 
 # ➤ Software Engineer at Atlassian <img src="https://raw.githubusercontent.com/wjloo95/wjloo95/master/Atlassian-icon-blue-onecolor%402x.png" alt="Atlassian Logo" width="30" style="color:blue"/>
 
