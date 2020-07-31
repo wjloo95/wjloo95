@@ -1,15 +1,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/wjloo95/wjloo95/master/rounded-banner.png" alt="Hi there! I'm Will" />
-</p>
-
-<p align="center">
-  <a href="mailto:loo.williamj@gmail.com">
-    <img align="center" alt="Will | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-  </a>
-  <a href="https://linkedin.com/in/william-loo">
-    <img align="center" alt="Will | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-  </a>
-</p>  
+</p> 
 
 # ➤ Software Engineer at Atlassian <img src="https://raw.githubusercontent.com/wjloo95/wjloo95/master/Atlassian-icon-blue-onecolor%402x.png" alt="Atlassian Logo" width="30" style="color:blue"/>
 
@@ -20,6 +11,13 @@ Nice to meet you! I'm a Software Engineer at Atlassian currently based in the NY
 
 When I’m not working on my next project, you can find me analyzing the latest NBA story lines or planning out my next travel adventure.
 
+## Get in Touch
+  <a href="mailto:loo.williamj@gmail.com">
+    <img align="left" alt="Will | Email" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
+  </a>
+  <a href="https://linkedin.com/in/william-loo">
+    <img align="left" alt="Will | LinkedIn" width="25px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
 <!--
 **wjloo95/wjloo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
